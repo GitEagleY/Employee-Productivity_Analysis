@@ -127,8 +127,6 @@ Here are some examples of what you can do with the project:
 
 ## Skills Learned
 
-By completing this project, you will have gained the following skills:
-
 - **Data Cleaning and Processing**: Using `pandas` and `openpyxl` to handle raw employee task data, clean it, and create meaningful columns like delays and completion percentages.
 - **Task Performance Analysis**: Performing analysis on task completion, delays, and overdue tasks.
 - **Employee Productivity Metrics**: Calculating and comparing productivity metrics for employees.
